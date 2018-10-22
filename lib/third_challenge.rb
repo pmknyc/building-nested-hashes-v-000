@@ -14,9 +14,9 @@ def third_challenge
         :age => "15",
         :status => "alive"
         },
-        
+
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -31,5 +31,5 @@ def third_challenge
    }
   }
 
-  
+
 end
