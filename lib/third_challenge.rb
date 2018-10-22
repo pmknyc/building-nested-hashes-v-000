@@ -30,6 +30,6 @@ def third_challenge
         :status => "alive"
     },
 }
-
+}
 
 end
